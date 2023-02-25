@@ -1,0 +1,7 @@
+export const Screens = {
+
+  SPLASH: "SPLASH",
+  POSTS_SCREEN:"POSTS_SCREEN",
+  POST_DETAILS:"POST_DETAILS",
+
+ }

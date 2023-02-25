@@ -1,0 +1,6 @@
+module Pods_Breadfast_task {
+  umbrella header "Pods-Breadfast_task-umbrella.h"
+
+  export *
+  module * { export * }
+}

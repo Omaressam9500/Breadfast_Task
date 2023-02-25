@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Arial-BoldMT.ttf",
+      "sha1": "38eb7982d6efccce71879a4236300b34e63487d4"
+    },
+    {
+      "path": "src/assets/fonts/ArialMT.ttf",
+      "sha1": "66154062e9902d6664f9855bfc04138e8b0c7c53"
+    },
+    {
+      "path": "src/assets/fonts/SFProText-Bold.ttf",
+      "sha1": "632e6cea171b276e5dd1f13b152c702fbf562cee"
+    },
+    {
+      "path": "src/assets/fonts/SFProText-Medium.ttf",
+      "sha1": "3b8df618cd23e83843b16a8a32de1ddc9de44df4"
+    },
+    {
+      "path": "src/assets/fonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "src/assets/fonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    },
+    {
+      "path": "src/assets/fonts/STC-Bold.ttf",
+      "sha1": "fa9c8b72eb1fce8a43e4f580e293c76b594b8125"
+    },
+    {
+      "path": "src/assets/fonts/STC-Light.ttf",
+      "sha1": "0830dbf4447001b9d4982e011d12f6e110b1ba3b"
+    },
+    {
+      "path": "src/assets/fonts/STC-Regular.ttf",
+      "sha1": "c742c973b616392f14042c75ed0288086698fe85"
+    }
+  ]
+}
