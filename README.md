@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Breadfast_Task
 
 please run yarn install first
@@ -13,5 +12,4 @@ Hint:
 user name and avatar not founded in post and comments list but i use a replacment image
 
 
->>>>>>> refs/remotes/origin/main
 
